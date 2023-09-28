@@ -1,0 +1,15 @@
+{
+	"contenidoStr": "{\n  \"name\": \"tp2-de-tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"mac.js\",\n  \"scripts\": {\n    \"test\": \"node mapaa.js\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\"\n}\n",
+	"contenidoObj": {
+		"name": "tp2-de-tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "mac.js",
+		"scripts": {
+			"test": "node mapaa.js"
+		},
+		"author": "",
+		"license": "ISC"
+	},
+	"size": 174
+}

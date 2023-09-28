@@ -1,0 +1,11 @@
+{
+  "name": "tp2-de-tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mac.js",
+  "scripts": {
+    "test": "node mapaa.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
